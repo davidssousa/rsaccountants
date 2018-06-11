@@ -33,6 +33,9 @@ body {
 #logo_res {
     width: 200px;
 }
+#logo {
+    width: 100px;
+}
 
 .capitalize {
     text-transform: capitalize;
